@@ -21,7 +21,7 @@
 }
 .nav__item{
 	color: rgb(228, 228, 228);
-font-family: Inter;
+font-family: "PT Sans Narrow";
 font-size: 18px;
 font-weight: 400;
 line-height: 21.78px;
@@ -40,7 +40,7 @@ margin-right: 30px;
 }
 .hero-block__title{
 	color: rgb(228, 228, 228);
-font-family: Inter;
+font-family: "PT Sans Narrow";
 font-size: 64px;
 font-weight: 400;
 line-height: 77.45px;
@@ -51,7 +51,7 @@ margin-bottom: 44px ;
 .hero-block__link{
 	background: rgb(234, 146, 240);
 	color: rgb(0, 0, 0);
-font-family: Inter;
+font-family: "PT Sans Narrow";
 font-size: 18px;
 font-weight: 400;
 line-height: 21.78px;
@@ -69,7 +69,7 @@ border-radius: 6px ;
 }
 .about__title{
 	color: rgb(228, 228, 228);
-font-family: Inter;
+font-family: "PT Sans Narrow";
 font-size: 48px;
 font-weight: 400;
 line-height: 58.09px;
@@ -84,7 +84,7 @@ margin-bottom: 64px;
 }
 .about__text{
 	color: rgb(228, 228, 228);
-font-family: Inter;
+font-family: "PT Sans Narrow"
 font-size: 28px;
 font-weight: 400;
 line-height: 33.89px;
@@ -100,7 +100,7 @@ max-width: 450px;
 }
 .video__title{
 	color: rgb(228, 228, 228);
-font-family: Inter;
+font-family: "PT Sans Narrow";
 font-size: 48px;
 font-weight: 400;
 line-height: 58.09px;
@@ -121,7 +121,7 @@ margin-bottom: 81px;
 }
 .gallery__title{
 	color: rgb(228, 228, 228);
-font-family: Inter;
+font-family: "PT Sans Narrow";
 font-size: 48px;
 font-weight: 400;
 line-height: 58.09px;
@@ -150,7 +150,7 @@ margin-bottom: 83px;
 }
 .footer__title{
 	color: rgb(228, 228, 228);
-font-family: Inter;
+font-family: "PT Sans Narrow";
 font-size: 30px;
 font-weight: 400;
 line-height: 36.31px;
@@ -159,7 +159,7 @@ text-align: left;
 }
 .footer__text{
 	color: rgb(228, 228, 228);
-font-family: Inter;
+font-family:"PT Sans Narrow";
 font-size: 16px;
 font-weight: 400;
 line-height: 19.36px;
@@ -170,4 +170,8 @@ text-align: left;
 	display: flex;
 	gap: 24px;
 	list-style: none;
+}
+.nav__link{
+	text-decoration: none;
+color: rgb(228, 228, 228);
 }
